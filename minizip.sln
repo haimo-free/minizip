@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minizip", "minizip\minizip.vcxproj", "{66FCEE08-DA72-4BAA-B742-1445A1AA8AC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "minizip_test", "minizip_test\minizip_test.vcxproj", "{7A6A7B3A-6D53-4BF3-BAA9-D5858BF3B6F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FCEE08-DA72-4BAA-B742-1445A1AA8AC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66FCEE08-DA72-4BAA-B742-1445A1AA8AC7}.Debug|Win32.Build.0 = Debug|Win32
+		{66FCEE08-DA72-4BAA-B742-1445A1AA8AC7}.Release|Win32.ActiveCfg = Release|Win32
+		{66FCEE08-DA72-4BAA-B742-1445A1AA8AC7}.Release|Win32.Build.0 = Release|Win32
+		{7A6A7B3A-6D53-4BF3-BAA9-D5858BF3B6F7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A6A7B3A-6D53-4BF3-BAA9-D5858BF3B6F7}.Debug|Win32.Build.0 = Debug|Win32
+		{7A6A7B3A-6D53-4BF3-BAA9-D5858BF3B6F7}.Release|Win32.ActiveCfg = Release|Win32
+		{7A6A7B3A-6D53-4BF3-BAA9-D5858BF3B6F7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0442002-8013-41D1-9E6C-4C96BCFF967B}
+	EndGlobalSection
+EndGlobal
